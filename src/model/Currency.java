@@ -1,5 +1,5 @@
 package model;
 
 public enum Currency {
-PLN, USD, CHF, RON, 
+	PLN, USD, CHF, RON, EUR
 }
